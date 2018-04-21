@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 21, 2018
 
 ### Student Name:  
-(First and Last Name)
+Brian Milvain
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We added action to the HTML file. We did this by using jquery to put functionality to the web page. when the user clicks the insructions they show up.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bmilvain.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. First thing I learned was the using of the console and applying it to the Preview. That was great to see how things look.
+2. Second concept that intrigued me was the ability to animate the text when it moved when you hovered over the headline.
+3. Another lesson I learned was copying and pasting is not the same as actually typing the code.
 
